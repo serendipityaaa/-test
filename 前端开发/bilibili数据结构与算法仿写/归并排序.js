@@ -39,6 +39,3 @@ var merge_sort = function(arr,low,high){
     }
     return arr
 }
-
-let arr = [2,4,5,6,1,2,4,7,9]
-console.log(merge_sort(arr,0,arr.length-1))
